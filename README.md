@@ -59,8 +59,10 @@
 - Modeling & Architecture: UML (Use Case, Class, Sequence, State Diagrams)  
 - Testing & Automation: Selenium  
 
+<!--
 ### ⚡ Contribution Graph  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MagliariElio&theme=radical)
+-->
 
 <!--
 ### 🚀 Featured Projects  
