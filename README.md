@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Elio  
+Graduated in Computer Engineering from **Politecnico di Torino** and **University of Rome Tor Vergata**, I’m now working as a Software Engineer in the logistics and transportation industry, based in Rome. Curiosity drives me understanding how things work, how to improve them, and how to build solutions that make a real impact. I believe in continuous learning and in the power of ideas, especially the ones that start small and end up changing everything. Experimenting, creating, and pushing boundaries are the constants of my journey.
+**Every line of code is a step forward.**
+
+**Stay Tuned!**
 
 🚀 Passionate about software engineering and cybersecurity.  
-💡 Always exploring new technologies and pushing boundaries.  
+💡 **Always exploring new technologies and pushing boundaries**.  
 
 ### 📈 Profile Views Counter  
 ![Profile Views](https://komarev.com/ghpvc/?username=MagliariElio&color=blue)
